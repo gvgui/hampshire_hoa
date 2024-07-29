@@ -13,7 +13,8 @@ pids/
 *.pid.lock
 
 # Environment Variables
-.env
+backend/.env
+frontend/.env
 
 # Service Account Key
 backend/keys/service-account-file.json
@@ -74,7 +75,6 @@ coverage/
 *~
 
 # System files
-Thumbs.db
 Desktop.ini
 
 # Parcel cache
@@ -82,3 +82,11 @@ Desktop.ini
 
 # Storybook files
 .storybook/
+
+# React specific
+frontend/.cache
+frontend/.next
+frontend/.storybook
+
+# Service Account Key
+keys/hampshire-hoa-site-9c67058f4e8a.json
