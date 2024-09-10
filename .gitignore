@@ -89,4 +89,4 @@ frontend/.next
 frontend/.storybook
 
 # Service Account Key
-keys/hampshire-hoa-site-9c67058f4e8a.json
+backend/keys/hampshire-hoa-site-9c67058f4e8a.json
